@@ -1,0 +1,18 @@
+{ 
+	"flibbr": { 
+		"name": "flibbr",
+		"country": "GB"
+		"badgeid": 1,
+		"lat": "52.709046",
+		"lng": "-2.755673",
+		"workstation": "http://i.imgur.com/0N2f9y3.jpg",
+		"selfie": "http://s9.postimg.org/t3elf5w5b/2014_11_06_02_04.png",
+		"about": "I eat/sleep/breathe bitcoin. Been obsessed with bitcoin ever since I first bought some. You can find me most of the time on TS, or sleeping, or on twitter, or playing chess on chess.com (flibbr)",
+		"interests": ["Bitcoin","Trading","Hydroponics","Mushrooms","Consciousness"],
+		"website": "http://www.flibbr.com",
+		"youtube": "MrFlibbr",
+		"twitter": "flibbr",
+		"tradingview": "flibbr"
+	}
+}
+

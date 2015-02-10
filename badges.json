@@ -1,0 +1,14 @@
+{
+	"1": { 
+		"name":  "Admin",
+	},
+	"2": {
+		"name":  "Mod",
+	},
+	"3": {
+		"name":  "Verified User",
+	},
+	"4" {
+		"name":	 "Vagrant"
+	}
+}
