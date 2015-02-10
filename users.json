@@ -15,5 +15,22 @@
 		"twitter": "flibbr",
 		"tradingview": "flibbr"
 	}
+	
+	"jim": { 
+		"name": "jim",
+		"gender": "m",
+		"country": "GB",
+		"badgeid": 2,
+		"lat": "53.785785",
+		"lng": "-2.041874",
+		"workstation": " ",
+		"selfie": " ",
+		"about": "Juggle Chart gazing & video editing with part time engineering job. Don't have a sleep schedule",
+		"interests": ["Bitcoin","Trading","Sweet bud","Accumulating Bitcoin","The other half"],
+		"website": "www.whaleclub.info",
+		"youtube": "https://www.youtube.com/channel/UCWAsvo5PeXhIphlQI5k3lMQ",
+		"twitter": "JimBitcoin",
+		"tradingview": "JimBtc"
+	}
 }
 
