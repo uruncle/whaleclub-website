@@ -1,6 +1,7 @@
 { 
 	"flibbr": { 
 		"name": "flibbr",
+		"gender": "m",
 		"country": "GB",
 		"badgeid": 1,
 		"lat": "52.709046",
