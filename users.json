@@ -1,7 +1,7 @@
 { 
 	"flibbr": { 
 		"name": "flibbr",
-		"country": "GB"
+		"country": "GB",
 		"badgeid": 1,
 		"lat": "52.709046",
 		"lng": "-2.755673",
