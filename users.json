@@ -11,11 +11,10 @@
 		"about": "I eat/sleep/breathe bitcoin. Been obsessed with bitcoin ever since I first bought some. You can find me most of the time on TS, or sleeping, or on twitter, or playing chess on chess.com (flibbr)",
 		"interests": ["Bitcoin","Trading","Hydroponics","Mushrooms","Consciousness"],
 		"website": "http://www.flibbr.com",
-		"youtube": "MrFlibbr",
+		"youtube": "/user/MrFlibbr/videos",
 		"twitter": "flibbr",
 		"tradingview": "flibbr",
-	}
-	
+	},
 	"jim": { 
 		"name": "jim",
 		"gender": "m",
@@ -28,7 +27,7 @@
 		"about": "Juggle Chart gazing & video editing with part time engineering job. Don't have a sleep schedule",
 		"interests": ["Bitcoin","Trading","Sweet bud","Accumulating Bitcoin","The other half"],
 		"website": "www.whaleclub.info",
-		"youtube": "https://www.youtube.com/channel/UCWAsvo5PeXhIphlQI5k3lMQ",
+		"youtube": "/channel/UCWAsvo5PeXhIphlQI5k3lMQ",
 		"twitter": "JimBitcoin",
 		"tradingview": "JimBtc",
 	}
