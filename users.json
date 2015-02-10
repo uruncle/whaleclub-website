@@ -51,6 +51,7 @@
 		"twitter": "bitcoinbravo",
 		"tradingview": "BTCVIX",
 	},
+<<<<<<< HEAD
 	"Ashdrake": {
 		"tsname": "Ashdrake",
 		"gender": "m",
@@ -161,7 +162,7 @@
 		"youtube": "/channel/UCWAsvo5PeXhIphlQI5k3lMQ",
 		"twitter": "JimBitcoin",
 		"tradingview": "JimBtc",
-	},
+	},        
 	"lowstrife": {
 		"tsname": "lowstrife",
 		"gender": "m",
