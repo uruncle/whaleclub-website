@@ -1,8 +1,26 @@
+// JSON FORMAT 
+// IF you don't have a workstation URL, Selfie pic url, Website, Youtube channel, Twitter handle or Tradingview username, you can delete those fields
+// "username": { 
+//	"tsname": "name or array of names",  
+//	"gender": "m or f",
+//	"country": "country code-- iso 3",
+//	"badgeId": 2,
+//	"lat": "xxxx",
+//	"lng": "xxxx",
+// 	"workstation": "link to my trading pc setup",
+//	"selfie": "link to a selfie",
+//	"about": "about me/teamspeak/bitcoin and myself etc..",
+//	"interests": ["Interest 1","Interest 2","...etc"],
+//	"website": "full url of your site",
+//	"youtube": "eg: ...  /channel/MYYOUTUBECHANNEL",
+//	"twitter": "mytwitterusername",
+//	"tradingview": "mytradingviewusername"
+//}
 { 
 	"flibbr": { 
-		"name": "flibbr",
+		"tsname": ["flibbr","Apples","joan"],
 		"gender": "m",
-		"country": "GB",
+		"country": "GBR",
 		"badgeid": 1,
 		"lat": "52.709046",
 		"lng": "-2.755673",
@@ -15,21 +33,34 @@
 		"twitter": "flibbr",
 		"tradingview": "flibbr",
 	},
-	"jim": { 
-		"name": "jim",
+	"btcvix": { 
+		"tsname": ["BTCVIX","BTCVIX[mobile]"],
 		"gender": "m",
-		"country": "GB",
-		"badgeid": 2,
-		"lat": "53.785785",
-		"lng": "-2.041874",
-		"workstation": " ",
-		"selfie": " ",
-		"about": "Juggle Chart gazing & video editing with part time engineering job. Don't have a sleep schedule",
-		"interests": ["Bitcoin","Trading","Sweet bud","Accumulating Bitcoin","The other half"],
-		"website": "www.whaleclub.info",
-		"youtube": "/channel/UCWAsvo5PeXhIphlQI5k3lMQ",
-		"twitter": "JimBitcoin",
-		"tradingview": "JimBtc",
-	}
+		"country": "USA",
+		"badgeid": 1,
+		"lat": "46.176245",
+		"lng": "-94.530065",
+		"workstation": "",
+		"selfie": "https://pbs.twimg.com/profile_images/378800000709730102/8a053befacbe0832bcc19fe84cc0ae3a.jpeg",
+		"about": "I'm obsessed with the crowd psychology element of herd behaviour. I like asian girls, Nassim Taleb, Flash Boys [the book] and Swans",
+		"interests": ["Psychology","HFT","Baby Boomers"],
+		"youtube": "/channel/UCq80JcdkGyF4k6YLxttQYKw",
+		"twitter": "bitcoinbravo",
+		"tradingview": "BTCVIX",
+	},
+        "jim": {
+                "tsname": "[jim]jim",
+                "gender": "m",
+                "country": "GBR",
+                "badgeid": 2,
+                "lat": "53.785785",
+                "lng": "-2.041874",
+                "about": "Juggle Chart gazing & video editing with part time engineering job. Don't have a sleep schedule",
+                "interests": ["Bitcoin","Trading","Sweet bud","Accumulating Bitcoin","The other half"],
+                "website": "www.whaleclub.info",
+                "youtube": "/channel/UCWAsvo5PeXhIphlQI5k3lMQ",
+                "twitter": "JimBitcoin",
+                "tradingview": "JimBtc",
+        }
 }
 
