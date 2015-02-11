@@ -786,6 +786,23 @@
 		"youtube": "",
 		"twitter": "",
 		"tradingview": "",
+	},
+	"Uruncle": {
+		"tsname": "Uruncle",
+		"gender": "m",
+		"country": "DNK",
+		"badgeid": 3,
+		"lat": "56.165278",
+		"lng": "10.227222",
+		"workstation": "",
+		"selfie": "",
+		"about": "Full time PHP developer",
+		"interests": ["Music production","Programming"],
+		"indicators": ["Ichimoku","RSI","Volume Price Confirmation","The Birthday Indicator"],
+		"website": "https://uruncle.com",
+		"youtube": "",
+		"twitter": "uruncles",
+		"tradingview": "uruncle",
 	}
 }
 
